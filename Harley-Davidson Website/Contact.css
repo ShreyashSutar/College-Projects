@@ -1,0 +1,85 @@
+﻿
+.info{
+  display:inline-block;
+  color:white;
+  margin:20px;
+  padding:20px;
+  right:250px;
+  font-size:17px;
+  top:20px;
+}
+hr{
+  top:40px;
+  position:absolute;
+  color:white;
+  height:60px;
+  right:235px;
+}
+
+.inputs{
+  margin:0 auto;
+  width:59%;
+  margin-left: 7%;
+}
+.form label{
+  position:relative;
+  top:20px;
+  color:black;
+}
+
+.form{
+  margin:0% auto;
+  width:75%;
+}
+.firstname{
+  width: 79.74%;
+  height: 37px;
+  color:gray;
+  padding:5px;
+  margin-bottom:15px;
+  font-size:15px;
+  font-family:times new roman;
+}
+.lastname{
+  width: 79.74%;
+  height: 50px;
+  color:gray;
+  padding:5px;
+  margin-bottom:15px;
+  font-size:15px;
+  font-family:times new roman;
+}
+.email{
+  width: 79.74%;
+  height: 50px;
+  color:gray;
+  padding:5px;
+  margin-bottom:15px;
+  font-size:15px;
+  font-family:times new roman;
+}
+.message{
+  width:79.74%; 
+  height:125px;
+  color:gray;
+  padding:5px;
+  margin-bottom:15px;
+  font-size:15px;
+  font-family:times new roman;
+}
+.submit{
+  background-color:#F5961E;
+  border:solid #F5961E 2px;
+  color:white;
+  width:10%;
+  height:30px;
+}
+
+.logo{
+  color:white;
+  position:absolute;
+  right:35px;
+  top:750px;
+  font-size:30px;
+  font-style:italic;
+}

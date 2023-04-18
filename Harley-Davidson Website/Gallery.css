@@ -1,0 +1,47 @@
+﻿
+* {
+  box-sizing:border-box;
+  font-family: 'Times New Roman', sans-serif;
+  color: black;
+  text-align: center;
+}
+
+/* GALLERY */
+
+.gallery 
+{
+    
+  display: grid;
+    grid-gap: 0px;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+    padding-top: 2%
+  
+}
+
+hr{
+  top:40px;
+  position:absolute;
+  color:white;
+  height:60px;
+  right:235px;
+}
+
+
+figure img 
+{
+  margin-top: 120px;
+  width: 18vw;
+  height: 35vh;
+  border-radius: 8px;
+  box-shadow: var(--shadow-elevation-high);
+  cursor: pointer;
+}
+.ranju
+{    
+    margin: -49px 42px 42px 42px;
+    }
+    
+
+
+    
